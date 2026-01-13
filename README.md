@@ -7,10 +7,6 @@
 </p>
 
 <!-- GLASS STYLE INTRO CARD -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00c6ff&height=2&section=header"/>
-</p>
-
 <h2 align="center">
   💻 Computer Science Student @ UPM
 </h2>
@@ -34,10 +30,6 @@
   <sub>
     🧠 Designing scalable systems &nbsp;•&nbsp; 🌐 Securing networks &nbsp;•&nbsp; 🚀 Shipping real projects
   </sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0e75b6&height=2&section=footer"/>
 </p>
 
 ---
