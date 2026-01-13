@@ -1,21 +1,43 @@
-<!-- BRICK ANIMATION HEADER -->
+<!-- HERO BRICK ANIMATION -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=FF6F00&center=true&vCenter=true&width=800&lines=Building+My+Career+Brick+by+Brick;Hi+%F0%9F%91%8B+I'm+Hazami;Computer+Science+Student+%40+UPM;Aspiring+Full-Stack+Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=700&color=FF6F00&center=true&vCenter=true&width=900&lines=Building+My+Career+Brick+by+Brick;Hi+%F0%9F%91%8B+I'm+Hazami;Engineering+Reliable+Systems;From+Networks+to+Full-Stack"
     alt="Brick animation typing"
   />
 </p>
 
-<!-- SUBTITLE -->
-<h3 align="center">
-  🧠 Computer Science Student @ UPM <br/>
-  🌐 Specialized in Computer Networking <br/>
-  💻 Aspiring Full-Stack Developer
-</h3>
-
-<!-- PROFILE VIEWS -->
+<!-- GLASS STYLE INTRO CARD -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zamie0&label=Profile%20views&color=0e75b6&style=flat" alt="zamie0" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00c6ff&height=2&section=header"/>
+</p>
+
+<h2 align="center">
+  💻 Computer Science Student @ UPM
+</h2>
+
+<p align="center">
+  <code>Computer Networking</code> &nbsp;•&nbsp;
+  <code>Full-Stack Development</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-Builder-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Next.js-Creator-black?style=for-the-badge&logo=next.js" />
+</p>
+
+<!-- PROFILE STATS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zamie0&label=Profile%20Views&color=ff6f00&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub>
+    🧠 Designing scalable systems &nbsp;•&nbsp; 🌐 Securing networks &nbsp;•&nbsp; 🚀 Shipping real projects
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0e75b6&height=2&section=footer"/>
 </p>
 
 ---
