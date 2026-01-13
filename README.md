@@ -7,10 +7,6 @@
 </p>
 
 <!-- GLASS STYLE INTRO CARD -->
-<h2 align="center">
-  💻 Computer Science Student @ UPM
-</h2>
-
 <p align="center">
   <code>Computer Networking</code> &nbsp;•&nbsp;
   <code>Full-Stack Development</code>
