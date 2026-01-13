@@ -30,7 +30,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🔭 Currently working on **Explainable AI (XAI) for Automation Systems**
 - 🌱 Learning **TypeScript, JavaScript (for FYP), and Next.js**
@@ -41,7 +41,7 @@
 
 ---
 
-## 🧰 Languages & Tools (Built Brick by Brick)
+## Languages & Tools (Built Brick by Brick)
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
@@ -96,11 +96,11 @@
 
 ---
 
-## 🧱 My Philosophy
+## My Philosophy
 
 > **Great systems aren’t built overnight — they’re built brick by brick.**  
 > Learning, failing, improving, and scaling 🚀
 
 ---
 
-⭐ *Feel free to check out my repositories and connect with me!*
+*Feel free to check out my repositories and connect with me!*
