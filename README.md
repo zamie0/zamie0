@@ -33,7 +33,7 @@
 ## About Me
 
 - 🔭 Currently working on **Explainable AI (XAI) for Automation Systems**
-- 🌱 Learning **TypeScript, JavaScript (for FYP), and Next.js**
+- 🌱 Learning **TypeScript, JavaScript and Next.js**
 - 🤝 Looking for help with **Advanced TypeScript & Backend Scalability**
 - 💬 Ask me about **Java, Python, Network Security, HPC**
 - 📫 Reach me at **muhdhazami157@gmail.com**
