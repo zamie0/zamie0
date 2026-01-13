@@ -37,7 +37,7 @@
 - 🤝 Looking for help with **Advanced TypeScript & Backend Scalability**
 - 💬 Ask me about **Java, Python, Network Security, HPC**
 - 📫 Reach me at **muhdhazami157@gmail.com**
-- ⚡ Fun fact: **I debug faster when deadlines (and coffee) exist ☕**
+- ⚡ Fun fact: **I debug faster when deadlines (and food) exist **
 
 ---
 
@@ -98,8 +98,8 @@
 
 ## My Philosophy
 
-> **Great systems aren’t built overnight — they’re built brick by brick.**  
-> Learning, failing, improving, and scaling 🚀
+> **Great systems aren’t built overnight, they’re built brick by brick.**  
+> Learning, failing, improving, and scaling 
 
 ---
 
